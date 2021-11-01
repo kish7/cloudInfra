@@ -27,7 +27,7 @@ readline.question(`What application do you want to open\n1. Jupyter Notebook\n2.
         }
   readline.close()
 
-callback(callback);
+// callback(callback);
 })
 // }
 
